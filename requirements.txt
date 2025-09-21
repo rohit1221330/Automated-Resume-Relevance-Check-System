@@ -3,6 +3,7 @@ python-dotenv
 
 # File Parsing
 PyMuPDF
+Pillow  
 python-docx
 
 # NLP & AI
